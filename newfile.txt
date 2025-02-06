@@ -1,2 +1,5 @@
 Hello World!
 This is my Capstone project!
+
+Hello and welcome friend!
+We are excited to meet you.
